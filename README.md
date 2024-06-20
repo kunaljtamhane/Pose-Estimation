@@ -1,4 +1,4 @@
-#Pose Estimation Project Using Google Mediapipe
+## Pose Estimation Project Using Google Mediapipe ##
 **Project Overview**
 This project utilizes Google's Mediapipe framework to implement a sophisticated pose estimation system that accurately identifies and tracks 33 key landmarks on the human body. By leveraging advanced machine learning models, this system provides real-time pose estimation, making it highly applicable for various domains such as fitness tracking, animation, augmented reality, and more.
 
